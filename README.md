@@ -15,3 +15,5 @@
 - Lecture 7: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L6&L7.pdf), [code](https://colab.research.google.com/drive/1Q9MPWf7yeGIirxFWWbp9T_E5DlZCVJTP?usp=sharing)
 
 - Lecture 8: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L8.pdf), [code](https://colab.research.google.com/drive/1fdPOlLqzBu-WjF9V394drCjvm5jEV92I?usp=sharing)
+
+- Lecture 9: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L9.pdf), [code](https://colab.research.google.com/drive/1CIDhDjf2v54ZodeC9n_Fjs2tITPbpxcR?usp=sharing)
