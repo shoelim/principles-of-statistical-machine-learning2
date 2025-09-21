@@ -1,5 +1,7 @@
 # Principles of Statistical Machine Learning 
 
+⚠️ The [course materials](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/course_plan_updated.pdf) are still under development and may contain typos or mistakes. Feedback and suggestions are greatly appreciated. 
+
 - Lecture 1: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L1.pdf), [code](https://colab.research.google.com/drive/1t1Z3lCNV7hz9r3JpU57vQNSfi7cCrNVr?usp=sharing) 
 
 - Lecture 2: [slides](https://github.com/shoelim/principles-of-statistical-machine-learning/blob/main/slides_L2.pdf), [code](https://colab.research.google.com/drive/101Zax7W2eyzunsG3UwibunUl0KWs2UOi?usp=sharing)
